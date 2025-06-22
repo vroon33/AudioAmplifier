@@ -2,7 +2,7 @@
 
 ![Full Circuit](Full%20Circuit.png)
 
-This audio amplifier was designed as part of the H1 Project for S25 Spring Semester, Electronics-Workshop II Course, at IIIT Hyderabad. The project was designed by [Vedant Pahariya](https://github.com/VedantPahariya) and  [Varun Shastry](https://github.com/GroanKing05).
+This audio amplifier was designed as part of the H1 Project for S25 Spring Semester, Electronics-Workshop II Course, at IIIT Hyderabad. The project was designed by [Vedant Pahariya](https://github.com/VedantPahariya) and  [Varun Shastry](https://github.com/vroon33).
 
 This repository holds the LTSpice schematics, reference books and manuals, the images of the final circuit, and the oscilloscope readings of the circuit. The circuit was designed to amplify audio signals of 5mV-10mV signals to 2V-4V signals so as to drive the speaker load of 10 ohms, with a power rating of 0.5W.
 
